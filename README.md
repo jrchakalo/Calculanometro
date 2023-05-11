@@ -10,7 +10,9 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3>Esse projeto foi desenvolvido para cadeira de Sistemas Digitais no Centro de Informática (CIn) da UFPE. A proposta foi desenvolver um projeto em Verilog que aclopasse uma calculadora a um cronômetro, o projeto foi testado utilizando uma FPGA e controlado por um teclado inserido na FPGA. Basicamente o teclado controla tanto as funções da calculadora quanto as funções do cronômetro, e os dois módulos rodam paralelamente. Como foi utilizado o Quartus e ele gera pastas pesadas e que so fazem sentido no proprio Quartus, coloquei aqui apenas o código dos módulos. Infelizmente não possuo fotos do projeto.</p3>
+  <p3><p>Esse projeto foi desenvolvido para cadeira de Sistemas Digitais no Centro de Informática (CIn) da UFPE. A proposta foi desenvolver um projeto em Verilog que aclopasse uma calculadora a um cronômetro, o projeto foi testado utilizando uma FPGA e controlado por um teclado inserido na FPGA.
+    <p>O cronômetro tem as funções de zerar, contar, pausar e parar acionadas respectivamente nas teclas A, B, C e D do teclado. Ao pressionar # ou * a máquina muda para calculadora. A calculadora possui as operações soma, subtração e multiplicação, acionadas respectivamente nas teclas A, B, C. Ao pressionar * é selecionada a leitura para o número X, ao pressionar # para o número Y. Ao ser pressionado D, a máquina muda para cronômetro novamente. Os dois módulos rodam paralelamente.
+    <p>Como foi utilizado o Quartus, ele gera pastas pesadas e que so fazem sentido no proprio Quartus, coloquei aqui apenas o código dos módulos. Infelizmente não possuo fotos do projeto.</p3>
 </div><br>
 
 <div>
