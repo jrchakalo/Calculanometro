@@ -10,16 +10,14 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3>Esse projeto foi desenvolvido para cadeira de Sistemas Digitais no Centro de Informática (CIn) da UFPE. A proposta foi desenvolver um projeto em Verilog que aclopasse uma calculadora a um cronômetro, o projeto foi testado utilizando uma FPGA e controlado por um teclado inserido na FPGA. Basicamente o teclado controla tanto as funções da calculadora quanto as funções do cronômetro, e os dois módulos rodam paralelamente. Como foi utilizado o Quartus e ele gera pastas pesadas e que so fazem sentido no proprio Quartus, coloquei aqui apenas o código dos módulos. Infelizmente não possuo fotos do projeto.
-
-</p3>
+  <p3>Esse projeto foi desenvolvido para cadeira de Sistemas Digitais no Centro de Informática (CIn) da UFPE. A proposta foi desenvolver um projeto em Verilog que aclopasse uma calculadora a um cronômetro, o projeto foi testado utilizando uma FPGA e controlado por um teclado inserido na FPGA. Basicamente o teclado controla tanto as funções da calculadora quanto as funções do cronômetro, e os dois módulos rodam paralelamente. Como foi utilizado o Quartus e ele gera pastas pesadas e que so fazem sentido no proprio Quartus, coloquei aqui apenas o código dos módulos. Infelizmente não possuo fotos do projeto.</p3>
 </div><br>
 
 <div>
   <h2> Tecnologias Utilizadas </h2>
 
  
-* [Quartus](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime.html): Sintetizador
+* [Quartus](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime.html): Sintetizador / IDE
 * Outras: windows, webbrowser, linux
 </div><br>
 
